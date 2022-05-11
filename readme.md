@@ -1,6 +1,6 @@
 # X-Cart to WooCommerce
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from X-Cart to WooCommerce store fast and seamless. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current X-Cart store. Thus, you’ll be able to move your current X-Cart store entities, including products, orders, customers, etc. to new WooCommerce store in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data [from X-Cart to WooCommerce store](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4914-xcart-to-woocommerce-migration?utm_source=github.com&utm_medium=referral&utm_term=xcart-woocommerce&utm_campaign=optimized-page) fast and seamless. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current X-Cart store. Thus, you’ll be able to move your current X-Cart store entities, including products, orders, customers, etc. to new WooCommerce store in a totally automated way.
 
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from current X-Cart to new WooCommerce store:
@@ -14,7 +14,7 @@ Cart2Cart will assist you in moving the following data entities from current X-C
 * **_Coupons_** (Description, Status, Coupon Code, Uses Per Coupon, Uses Per Customer, Type Discount, Total available, Minimum Spent, Product, Coupon Expire Date).
 
 
-To get the full list of transferable entities, please check the table here.
+To get the full list of transferable entities, please check the table [here.](https://www.shopping-cart-migration.com/shopping-cart-migration-options/4914-xcart-to-woocommerce-migration?utm_source=github.com&utm_medium=referral&utm_term=xcart-woocommerce&utm_campaign=optimized-page)
 
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
@@ -32,9 +32,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Launch the Full migration** to start the X-Cart database transfer to your new WooCommerce store.
 
 
-Watch our video tutorial to see how easy it is to automatically migrate X-Cart store to WooCommerce with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://youtu.be/v0Ga4I64QkY?utm_source=github.com&utm_medium=referral&utm_term=xcart-woocommerce&utm_campaign=optimized-page) to see how easy it is to automatically migrate X-Cart store to WooCommerce with the help of the Cart2Cart migration tool.
 
-Check the detailed guide on X-Cart to WooCommerce migration. 
+Check the detailed [guide on X-Cart to WooCommerce migration.](https://www.shopping-cart-migration.com/migration-guides/complete-x-cart-to-woocommerce-migration-checklist?utm_source=github.com&utm_medium=referral&utm_term=xcart-woocommerce&utm_campaign=optimized-page) 
 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
@@ -43,4 +43,4 @@ Check the detailed guide on X-Cart to WooCommerce migration.
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to new WooCommerce store and the additional options you select.
 * **Free demo available.** Move a limited number of data from current X-Cart store to WooCommerce store just within 30 minutes. No risk involved, no credit card required.
-* **Extensive FAQ section** that provides customers with the answers to the most common questions concerning WooCommerce migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/45-woocommerce?utm_source=github.com&utm_medium=referral&utm_term=xcart-woocommerce&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning WooCommerce migration.
